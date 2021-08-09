@@ -2,13 +2,13 @@
 
 These exercises are the continuation of the JavaScript training.
 
-- [Variables](/variables/introduction.md)
-- [Strings](/strings/introduction.md)
-- [Numbers](/numbers/introduction.md)
-- [Arrays](/arrays/introduction.md)
-- [Objects](/objects/introduction.md)
-- [Functions](/functions/introduction.md)
-- [Conditional structures](/conditional-structures/introduction.md)
-- [Loops](/loops/introduction.md)
-- [DOM](/dom/introduction.md)
-- [Events](/events/introduction.md)
+1. [Variables](/variables/introduction.md)
+2. [Strings](/strings/introduction.md)
+3. [Numbers](/numbers/introduction.md)
+4. [Arrays](/arrays/introduction.md)
+5. [Objects](/objects/introduction.md)
+6. [Functions](/functions/introduction.md)
+7. [Conditional structures](/conditional-structures/introduction.md)
+8. [Loops](/loops/introduction.md)
+9. [DOM](/dom/introduction.md)
+10. [Events](/events/introduction.md)
